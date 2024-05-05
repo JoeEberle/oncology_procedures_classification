@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Oncology Procedures Classification - Process for classifying oncology procedures.
 Process for classifying oncology procedures.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Oncology Procedures Classification** - an example for 
 Process for classifying oncology procedures.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
