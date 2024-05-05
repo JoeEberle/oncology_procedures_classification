@@ -48,5 +48,5 @@ To get started with the **Oncology Procedures Classification** solution reposito
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](oncology_procedures_classification.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](oncology_procedures_classification.png)  <br>
     
