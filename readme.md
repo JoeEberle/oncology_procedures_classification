@@ -39,11 +39,8 @@ To get started with the **Oncology Procedures Classification** solution reposito
  ![additional_image](oncology_procedures_classification.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
