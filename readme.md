@@ -2,7 +2,7 @@
     
 # Oncology Procedures Classification 
 
-## nan
+## oncology_procedures_classification
 
     
 ![Solution](code.png)
@@ -25,7 +25,7 @@
 
 Welcome to the solution **Oncology Procedures Classification** - an example for your projects
 
-nan
+oncology_procedures_classification
 
 ![Solution](code.png)
 
